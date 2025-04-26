@@ -99,7 +99,7 @@
     </li>
     <hr>
     <li>
-      <a href="https://niloyns.github.io/niloyPortfolio/">Simple Resume</a> - Welcome to my portfolio website! This website showcases my skills, projects, and contact information. I'm excited to share my work and connect with potential collaborators and employers.
+      <a href="https://niloyns.github.io/Portfolio_2.0/">Simple Resume</a> - Welcome to my portfolio website! This website showcases my skills, projects, and contact information. I'm excited to share my work and connect with potential collaborators and employers.
       <ul>
         <li>Responsive Design: The website is fully responsive and looks great on all devices.</li>
         <li>Dark Mode and Light Mode: Toggle between dark and light themes for a comfortable viewing experience.</li>
