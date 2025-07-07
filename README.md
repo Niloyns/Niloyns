@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋+I'm+Niloy+Sarkar;Full+Stack+Developer+🚀;Building+Amazing+Web+Apps+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋+I'm+Niloy+Sarkar;Full+Stack+Developer+🚀;Building+Amazing+Web+Apps+💻" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="500" alt="coding gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding gif"/>
 </div>
 
 ---
@@ -147,21 +147,21 @@
 
 <div align="center">
   <h2>💭 Quote I Live By</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=80&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;Always+keep+learning+and+growing!+🚀" alt="Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=80&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;Always+keep+learning+and+growing!+🚀" alt="Quote" />
 </div>
 
 ---
 
 <div align="center">
   <h2>🎯 Current Goals</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=700&height=120&lines=🔭+Currently+working+on+exciting+projects;🌱+Learning+new+technologies+daily;👯+Looking+to+collaborate+on+innovative+ideas;💬+Ask+me+about+Full+Stack+Development;📫+Reach+out+for+freelance+opportunities!" alt="Goals" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=700&height=120&lines=🔭+Currently+working+on+exciting+projects;🌱+Learning+new+technologies+daily;👯+Looking+to+collaborate+on+innovative+ideas;💬+Ask+me+about+Full+Stack+Development;📫+Reach+out+for+freelance+opportunities!" alt="Goals" />
 </div>
 
 ---
 
 <div align="center">
   <h2>🎨 Fun Zone</h2>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="300" alt="coding gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="coding gif"/>
 </div>
 
 ---
@@ -171,5 +171,5 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=80&lines=Let's+build+something+amazing+together!+✨;Happy+Coding!+💻" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=80&lines=Let's+build+something+amazing+together!+✨;Happy+Coding!+💻" alt="Footer" />
 </div>
