@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋+I'm+Niloy+Sarkar;Full+Stack+Developer+🚀;Building+Amazing+Web+Apps+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Niloy+Sarkar;Full+Stack+Developer+%F0%9F%9A%80;Building+Amazing+Web+Apps+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -70,6 +70,14 @@
     </tr>
     <tr>
       <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
+        <br><sub><b>React</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
+        <br><sub><b>Next.js</b></sub>
+      </td>
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
         <br><sub><b>MongoDB</b></sub>
       </td>
@@ -81,6 +89,8 @@
         <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
         <br><sub><b>Git</b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
         <br><sub><b>Docker</b></sub>
@@ -88,6 +98,16 @@
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=wordpress" width="50" height="50" alt="WordPress" />
         <br><sub><b>WordPress</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/AI-ML-000000?style=flat-square&logo=googleai&logoColor=white" width="50" height="50" alt="AI/ML" />
+        <br><sub><b>AI / ML</b></sub>
+      </td>
+      <td align="center" width="120">
+        <!-- placeholder to keep table balanced -->
+      </td>
+      <td align="center" width="120">
+        <!-- placeholder to keep table balanced -->
       </td>
     </tr>
   </table>
@@ -147,14 +167,14 @@
 
 <div align="center">
   <h2>💭 Quote I Live By</h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=80&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;Always+keep+learning+and+growing!+🚀" alt="Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=80&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;Always+keep+learning+and+growing!+%F0%9F%9A%80" alt="Quote" />
 </div>
 
 ---
 
 <div align="center">
   <h2>🎯 Current Goals</h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=700&height=120&lines=🔭+Currently+working+on+exciting+projects;🌱+Learning+new+technologies+daily;👯+Looking+to+collaborate+on+innovative+ideas;💬+Ask+me+about+Full+Stack+Development;📫+Reach+out+for+freelance+opportunities!" alt="Goals" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=700&height=120&lines=%F0%9F%94%AD+Currently+working+on+exciting+projects;%F0%9F%8C%B1+Learning+new+technologies+daily;%F0%9F%91%AF+Looking+to+collaborate+on+innovative+ideas;%F0%9F%92%AC+Ask+me+about+Full+Stack+Development;%F0%9F%93%AB+Reach+out+for+freelance+opportunities!" alt="Goals" />
 </div>
 
 ---
@@ -171,5 +191,5 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=80&lines=Let's+build+something+amazing+together!+✨;Happy+Coding!+💻" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=80&lines=Let's+build+something+amazing+together!+%E2%9C%A8;Happy+Coding!+%F0%9F%92%BB" alt="Footer" />
 </div>
