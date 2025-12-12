@@ -116,12 +116,19 @@
 ---
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Niloyns&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <h2>📊 GitHub: Contributions & Quick Stats</h2>
+
+  <!-- Contributions (works) -->
+  <img src="https://ghchart.rshah.org/Niloyns" alt="GitHub Contributions" />
+
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niloyns&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niloyns&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+  <!-- Stable badges -->
+  <img src="https://img.shields.io/github/followers/Niloyns?style=for-the-badge&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/last-commit/Niloyns/Todo_API?style=for-the-badge&label=Last%20commit" alt="Last Commit" />
+  <a href="https://github.com/Niloyns">
+    <img src="https://img.shields.io/badge/View%20Profile-GitHub-181717?style=for-the-badge&logo=github" alt="View Profile" />
+  </a>
 </div>
 
 ---
